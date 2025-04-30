@@ -10,7 +10,7 @@ It was created for educational purposes to deepen my understanding of how data s
 - **List** – Doubly linked list implementation  
 - **Queue** – FIFO structure with optional circular buffer version  
 - **Map** – Key-value store using binary search tree  
-- **Unordered_Map** – Hash table implemented with open addressing or chaining
+- **Unordered_Map** – Hash table implemented with open addressing
 
 ## 🔧 Features
 

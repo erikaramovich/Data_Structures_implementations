@@ -6,7 +6,7 @@ It was created for educational purposes to deepen my understanding of how data s
 ## 📂 Implemented Structures
 
 - **Vector** – Dynamic array with automatic resizing  
-- **Stack** – LIFO structure implemented with array or linked list  
+- **Stack** – LIFO structure implemented with array 
 - **List** – Doubly linked list implementation  
 - **Queue** – FIFO structure with optional circular buffer version  
 - **Map** – Key-value store using binary search tree  
